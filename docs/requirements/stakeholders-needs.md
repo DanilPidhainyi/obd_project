@@ -26,8 +26,32 @@
 
 ## Короткий зміст
 
-*[Розділ містить опис того, про що йдеться в еій частині цього документу, що залишилася. 
-Також тут описана структура документу.]*
+- docs
+  - design
+    - README.md
+  - requirements
+    - README.md
+    - stakeholders-needs.md
+    - state-of-the-art.md
+  - use cases
+    - README.md
+  - README.md
+- guidelines
+  - media
+  - guidelines.md
+  - themes.md
+- src
+  - js
+    - README.md
+  - sql
+    - README.md
+  - uml
+    - README.md
+    - dao.puml
+    - example.puml
+  - README.md
+- .gitignore
+- README.md
 
 ## Характеристика ділових процесів
 
