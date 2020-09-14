@@ -16,7 +16,7 @@
 - Гулак Іван Володимирович
 - Дромашко Артем 
 
-Більш детальну інформацію можна знайти [Тут] (./docs/requirements/stakeholders-needs.md) 
+Більш детальну інформацію можна знайти [Тут](./docs/requirements/stakeholders-needs.md) 
 
 [Методичні вказівки](./guidelines/guidelines.md)
 
