@@ -26,14 +26,14 @@
 
 ### Посилання
 
-[Media Content Analysis](https://www.historylearningsite.co.uk/sociology/research-methods-in-sociology/media-content-analysis/#:~:text=Media%20content%20analysis%20is%20the,quantitative%20or%20qualitative%20research%20methods.&text=Media%20content%20analysis%20looks%20directly,central%20aspect%20of%20social%20interaction.)
-[Вебсервіс](https://uk.wikipedia.org/wiki/%D0%92%D0%B5%D0%B1%D1%81%D0%BB%D1%83%D0%B6%D0%B1%D0%B0)
-[Контент](https://igroup.com.ua/seo-articles/kontent/)
-[ЗМІ(Засоби масової інформації)](https://en.wikipedia.org/wiki/Mass_media)
-[Транслція](https://en.wikipedia.org/wiki/Broadcasting)
-[Цифровий носій](https://en.wikipedia.org/wiki/Digital_media)
-[Соціальні медіа](https://en.wikipedia.org/wiki/Social_media)
-[Джерела](https://en.wikipedia.org/wiki/Sources_(website))
+- [Media Content Analysis](https://www.historylearningsite.co.uk/sociology/research-methods-in-sociology/media-content-analysis/#:~:text=Media%20content%20analysis%20is%20the,quantitative%20or%20qualitative%20research%20methods.&text=Media%20content%20analysis%20looks%20directly,central%20aspect%20of%20social%20interaction.)
+- [Вебсервіс](https://uk.wikipedia.org/wiki/%D0%92%D0%B5%D0%B1%D1%81%D0%BB%D1%83%D0%B6%D0%B1%D0%B0)
+- [Контент](https://igroup.com.ua/seo-articles/kontent/)
+- [ЗМІ(Засоби масової інформації)](https://en.wikipedia.org/wiki/Mass_media)
+- [Трансляція](https://en.wikipedia.org/wiki/Broadcasting)
+- [Цифровий носій](https://en.wikipedia.org/wiki/Digital_media)
+- [Соціальні медіа](https://en.wikipedia.org/wiki/Social_media)
+- [Джерела](https://en.wikipedia.org/wiki/Sources_(website))
 
 ## Короткий зміст
 
