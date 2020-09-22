@@ -30,7 +30,7 @@
   - dvartem1508@gmail.com 
   - +380675211294
 
-# *Більш детальну інформацію можна знайти [тут](./docs/requirements/stakeholders-needs.md) 
+# ***Більш детальну інформацію можна знайти [тут](./docs/requirements/stakeholders-needs.md)***
 
 [Методичні вказівки](./guidelines/guidelines.md)
 
