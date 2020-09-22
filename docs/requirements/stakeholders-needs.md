@@ -46,7 +46,7 @@
 
 ## Характеристика ділових процесів
    
-***ID:*** 251231101
+***ID:*** Type:Media Content Analysis: #01 Scenario: Version: 1.01
     
 ***НАЗВА:*** Mediascan
     
