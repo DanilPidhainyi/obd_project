@@ -14,26 +14,11 @@
 
 ### Основні визначення та скорочення
 
-- Контент – це пряма калька з англійської, де слово content означає “зміст, вміст”. Це збірний термін для будь-якої інформації, яка міститься в інформаційному ресурсі. Якщо мова йде про веб-ресурси, то чим якіснішим він буде, тим краще для просування сайту.
-- Запити зацікавлених осіб – це опис вимог різних учасників проекту (замовників, користувачів та ін.) до змісту системи, що містить організаційні (призначення системи), функціональні (можливості системи) та експлуатаційні аспекти.
-- Вебсервіс — програмна система, що ідентифікується URI, і публічні інтерфейси та прив'язки якої визначені та описані мовою XML. Опис цієї програмної системи може бути знайдено іншими програмними системами, які можуть взаємодіяти з нею відповідно до цього опису з використанням повідомлень, що базуються на XML та передаються за допомогою інтернет-протоколів.
-- Аналіз контенту медіа - це деконструкція фрагментів медіа з тенденцією до кількісних або якісних методів дослідження.
-- ЗМІ - відноситься до різноманітного набору медіа-технологій, які охоплюють велику аудиторію за допомогою засобів масової комунікації. Технології, завдяки яким відбувається це спілкування, включають різноманітні торгові точки.
-- Трансляція - це розподіл аудіо чи відеоконтенту для розподіленої аудиторії за допомогою будь-якого електронного засобу масового зв'язку, але, як правило, такого, що використовує електромагнітний спектр (радіохвилі), в моделі один-до-багатьох.
-- Цифровий носій - це будь-який носій, кодований у машиночитаних форматах. Цифрові носії можна створювати, переглядати, розповсюджувати, модифікувати та зберігати на цифрових електронних пристроях.
-- Соціальні медіа - це інтерактивні комп’ютерно-опосередковані технології, які сприяють створенню або обміну інформацією, ідеями, кар’єрними інтересами та іншими формами вираження поглядів через віртуальні спільноти та мережі.
-- Джерела - це веб-портал для журналістів, позаштатних авторів, редакторів, авторів та дослідників, який зосереджується, зокрема, на людських джерелах: експертах та речниках, які готові відповісти на запитання репортерів або стати доступними для інтерв'ю в ефірі.
+[Дивитися тут](https://github.com/DanilPidhainyi/obd_project/blob/master/docs/requirements/state-of-the-art.md)
 
 ### Посилання
 
-- [Media Content Analysis](https://www.historylearningsite.co.uk/sociology/research-methods-in-sociology/media-content-analysis/#:~:text=Media%20content%20analysis%20is%20the,quantitative%20or%20qualitative%20research%20methods.&text=Media%20content%20analysis%20looks%20directly,central%20aspect%20of%20social%20interaction.)
-- [Вебсервіс](https://uk.wikipedia.org/wiki/%D0%92%D0%B5%D0%B1%D1%81%D0%BB%D1%83%D0%B6%D0%B1%D0%B0)
-- [Контент](https://igroup.com.ua/seo-articles/kontent/)
-- [ЗМІ(Засоби масової інформації)](https://en.wikipedia.org/wiki/Mass_media)
-- [Трансляція](https://en.wikipedia.org/wiki/Broadcasting)
-- [Цифровий носій](https://en.wikipedia.org/wiki/Digital_media)
-- [Соціальні медіа](https://en.wikipedia.org/wiki/Social_media)
-- [Джерела](https://en.wikipedia.org/wiki/Sources_(website))
+[Дивитися тут](https://github.com/DanilPidhainyi/obd_project/blob/master/docs/requirements/state-of-the-art.md)
 
 ## Короткий зміст
 
@@ -57,12 +42,14 @@
 ***РЕЗУЛЬТАТ:*** Веб-сервіс для збору, опрацювання та інтелектуального аналізу медіа-контенту.
 
 ***ВИКЛЮЧНІ СИТУАЦІЇ:***
+
 #### - Замовник не передав кошти.
 #### - Проблеми у розробці програмного коду.
 #### - Менеджер не вірно створив або змінив технічне завдання.
 #### - Керівник несвоєчасно передав завдання розробникам.
 #### - Замовник не передав кошти.
 #### - Розробники не вірно виконали завдання.
+
 ***ОСНОВНИЙ СЦЕНАРІЙ:***
 ![Діаграма роботи сервісу](http://www.plantuml.com/plantuml/png/dPN5cjim483lWNVGj-SmbVbOfbCniCoxJYzbPcQ69mWplCBeZJeZsV5OAIubqi0_w6JtkfLTiugB2q5VSNqodrsV52VtdOl58qcHNHSJstCxrNLxDBVpz19yXRgy1dMeGKdUW1PAEZ2Gz-WyOG9I793uBQ02BUZ10AfZ29v1F6K3ta9Fle4-jBIxl8xl9NgLD-Lr0KqeGONeQDANJmrYcgVa4ByZeO9LNDFCA3ID43Smvzj8UoFlehJ-jo0P7YHfr5s5hdoAJZSr6uOenTf99wyReCqSbB51pw22hWFewGP2Kzw4ogYPPKoy2Ns2EN1vXsvZpTt2uMaR_Wt1JPLHcJSO9HG0iySUl1NoZQ2cGqSbq37HyHX7R-9e6E9h3NFiQZoXe8RWBi5v9N_kSJpEGsosGtn0U5zbEy0kFn9wDwZPmcx5AyfPtZHW2GxRmc0zUPF63XtCweug7Pfw-hIm5UXJ-MHd03sBwsp0PtGROjdNdPBuz1MoJsSO2CMiZQMPujG4etRnlqekqA0MRfIVvloOpVy1TMgZmKMAMiAA9lukaZt6CjHfz4Yw2_LVZZF3GyV__CZ8wtOR1z3nF8ho4LBfDvktbjV4LYDtt0WziAqKp9fSjoRNN5k--NgiBV6NzYbEOVB2vCBo2aTzeBpb6sS_107aJKfQUPmuu9f-Klseq-J8IUcF77JrRxshflJvXTd99Ile4oBeqsSHBeR3btQYfojP28TtEf_3hjGL9eC-lVeaSvYSfmqpGT-HWuoMfZlJRpRkMu8-BLcZZ5Ij9mwCuiPZtclSUqsWCmbqERorewCRAewfgJSjecDoJ9BIajH84hDjaXw9NWOiquphADQSe6dTzzsJImNyolm9)
 ## Короткий огляд продукту
