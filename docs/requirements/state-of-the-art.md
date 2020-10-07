@@ -13,7 +13,7 @@
 - Цифровий носій - це будь-який носій, кодований у машиночитаних форматах. Цифрові носії можна створювати, переглядати, розповсюджувати, модифікувати та зберігати на цифрових електронних пристроях. [6]
 - Соціальні медіа - це інтерактивні комп’ютерно-опосередковані технології, які сприяють створенню або обміну інформацією, ідеями, кар’єрними інтересами та іншими формами вираження поглядів через віртуальні спільноти та мережі.[7]
 - Джерела - це веб-портал для журналістів, позаштатних авторів, редакторів, авторів та дослідників, який зосереджується, зокрема, на людських джерелах: експертах та речниках, які готові відповісти на запитання репортерів або стати доступними для інтерв'ю в ефірі.[8]
-  - [1]((https://www.historylearningsite.co.uk/sociology/research-methods-in-sociology/media-content-analysis/#:~:text=Media%20content%20analysis%20is%20the,quantitative%20or%20qualitative%20research%20methods.&text=Media%20content%20analysis%20looks%20directly,central%20aspect%20of%20social%20interaction.))
+  - [1](https://www.historylearningsite.co.uk/sociology/research-methods-in-sociology/media-content-analysis/#:~:text=Media%20content%20analysis%20is%20the,quantitative%20or%20qualitative%20research%20methods.&text=Media%20content%20analysis%20looks%20directly,central%20aspect%20of%20social%20interaction.)
   - [2](https://uk.wikipedia.org/wiki/%D0%92%D0%B5%D0%B1%D1%81%D0%BB%D1%83%D0%B6%D0%B1%D0%B0)
   - [3](https://igroup.com.ua/seo-articles/kontent/)
   - [4](https://en.wikipedia.org/wiki/Mass_media)
