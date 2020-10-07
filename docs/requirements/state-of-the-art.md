@@ -5,8 +5,14 @@
 В цьому документі ви можете детально ознайомитися з підходами та способами вирішення завдань та іншою інформацією.
 
 ## Основні визначення
-
-[Дивитися тут](https://github.com/DanilPidhainyi/obd_project/blob/master/docs/requirements/stakeholders-needs.md)
+- [Контент](https://igroup.com.ua/seo-articles/kontent/) [3]– це пряма калька з англійської, де слово content означає “зміст, вміст”. Це збірний термін для будь-якої інформації, яка міститься в інформаційному ресурсі. Якщо мова йде про веб-ресурси, то чим якіснішим він буде, тим краще для просування сайту.
+- [Вебсервіс](https://uk.wikipedia.org/wiki/%D0%92%D0%B5%D0%B1%D1%81%D0%BB%D1%83%D0%B6%D0%B1%D0%B0) [2]— програмна система, що ідентифікується URI, і публічні інтерфейси та прив'язки якої визначені та описані мовою XML. Опис цієї програмної системи може бути знайдено іншими програмними системами, які можуть взаємодіяти з нею відповідно до цього опису з використанням повідомлень, що базуються на XML та передаються за допомогою інтернет-протоколів.
+- [Аналіз контенту медіа](https://www.historylearningsite.co.uk/sociology/research-methods-in-sociology/media-content-analysis/#:~:text=Media%20content%20analysis%20is%20the,quantitative%20or%20qualitative%20research%20methods.&text=Media%20content%20analysis%20looks%20directly,central%20aspect%20of%20social%20interaction.) [1]- це деконструкція фрагментів медіа з тенденцією до кількісних або якісних методів дослідження.
+- [ЗМІ](https://en.wikipedia.org/wiki/Mass_media) [4]- відноситься до різноманітного набору медіа-технологій, які охоплюють велику аудиторію за допомогою засобів масової комунікації. Технології, завдяки яким відбувається це спілкування, включають різноманітні торгові точки.
+- [Трансляція](https://en.wikipedia.org/wiki/Broadcasting) [5]- це розподіл аудіо чи відеоконтенту для розподіленої аудиторії за допомогою будь-якого електронного засобу масового зв'язку, але, як правило, такого, що використовує електромагнітний спектр (радіохвилі), в моделі один-до-багатьох.
+- [Цифровий носій](https://en.wikipedia.org/wiki/Digital_media) [6]- це будь-який носій, кодований у машиночитаних форматах. Цифрові носії можна створювати, переглядати, розповсюджувати, модифікувати та зберігати на цифрових електронних пристроях.
+- [Соціальні медіа](https://en.wikipedia.org/wiki/Social_media)) [7]- це інтерактивні комп’ютерно-опосередковані технології, які сприяють створенню або обміну інформацією, ідеями, кар’єрними інтересами та іншими формами вираження поглядів через віртуальні спільноти та мережі.
+- [Джерела](https://en.wikipedia.org/wiki/Sources_(website)) [8]- це веб-портал для журналістів, позаштатних авторів, редакторів, авторів та дослідників, який зосереджується, зокрема, на людських джерелах: експертах та речниках, які готові відповісти на запитання репортерів або стати доступними для інтерв'ю в ефірі.
 
 ## Підходи та способи вирішення завдання
 - [Data mining](https://ru.wikipedia.org/wiki/Data_mining)
@@ -63,5 +69,13 @@
 
 Кінцевим результатом, має бути веб-сірвіс "Mediascan",який буде виконувати безліч необхідних функцій:автоматична обробка публікацій, аналітика, експорт даних в різних форматах, моніторинг і аналіз повідомлень, публікацій, інформаційна частина,медіа-аналіз повідомлень. Метою є створення веб-сервісу,який зможе вільно будти конкурентноспроможним щодо інших сервісів!
 ## Посилання
+- 1.[Media Content Analysis](https://www.historylearningsite.co.uk/sociology/research-methods-in-sociology/media-content-analysis/#:~:text=Media%20content%20analysis%20is%20the,quantitative%20or%20qualitative%20research%20methods.&text=Media%20content%20analysis%20looks%20directly,central%20aspect%20of%20social%20interaction.)
+- 2.[Вебсервіс](https://uk.wikipedia.org/wiki/%D0%92%D0%B5%D0%B1%D1%81%D0%BB%D1%83%D0%B6%D0%B1%D0%B0)
+- 3.[Контент](https://igroup.com.ua/seo-articles/kontent/)
+- 4.[ЗМІ(Засоби масової інформації)](https://en.wikipedia.org/wiki/Mass_media)
+- 5.[Трансляція](https://en.wikipedia.org/wiki/Broadcasting)
+- 6.[Цифровий носій](https://en.wikipedia.org/wiki/Digital_media)
+- 7.[Соціальні медіа](https://en.wikipedia.org/wiki/Social_media)
+- 8.[Джерела](https://en.wikipedia.org/wiki/Sources_(website))
 
-[Дивитися тут](https://github.com/DanilPidhainyi/obd_project/blob/master/docs/requirements/stakeholders-needs.md)
+
