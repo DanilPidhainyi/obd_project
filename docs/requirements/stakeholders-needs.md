@@ -35,11 +35,11 @@
     
 ***НАЗВА:*** Опрацювати, зібрати та проаналізувати медіа-контент.
     
-***УЧАСНИКИ:*** Розробники програмного коду, Менеджер, Тестувальник, Курівник групи, Замовник.
+***УЧАСНИКИ:*** Менеджер, Аналітик, Адміністратор підсистеми збору медіа-даних, Користувач.
 
-***ПЕРЕДУМОВИ:*** Замовник висловив усі свої вимоги та передав кошти на створення веб-сервісу.
+***ПЕРЕДУМОВИ:*** Відсутні.
 
-***РЕЗУЛЬТАТ:*** Веб-сервіс для збору, опрацювання та інтелектуального аналізу медіа-контенту.
+***РЕЗУЛЬТАТ:*** Інтерактивний dashboard з результатами опрацювання та аналізу даних медіа-контенту.
 
 ***ВИКЛЮЧНІ СИТУАЦІЇ:***
 
@@ -50,7 +50,7 @@
 #### - Розробники не вірно виконали завдання.
 
 ***ОСНОВНИЙ СЦЕНАРІЙ:***
-![Діаграма роботи сервісу](http://www.plantuml.com/plantuml/png/dPN5cjim483lWNVGj-SmbVbOfbCniCoxJYzbPcQ69mWplCBeZJeZsV5OAIubqi0_w6JtkfLTiugB2q5VSNqodrsV52VtdOl58qcHNHSJstCxrNLxDBVpz19yXRgy1dMeGKdUW1PAEZ2Gz-WyOG9I793uBQ02BUZ10AfZ29v1F6K3ta9Fle4-jBIxl8xl9NgLD-Lr0KqeGONeQDANJmrYcgVa4ByZeO9LNDFCA3ID43Smvzj8UoFlehJ-jo0P7YHfr5s5hdoAJZSr6uOenTf99wyReCqSbB51pw22hWFewGP2Kzw4ogYPPKoy2Ns2EN1vXsvZpTt2uMaR_Wt1JPLHcJSO9HG0iySUl1NoZQ2cGqSbq37HyHX7R-9e6E9h3NFiQZoXe8RWBi5v9N_kSJpEGsosGtn0U5zbEy0kFn9wDwZPmcx5AyfPtZHW2GxRmc0zUPF63XtCweug7Pfw-hIm5UXJ-MHd03sBwsp0PtGROjdNdPBuz1MoJsSO2CMiZQMPujG4etRnlqekqA0MRfIVvloOpVy1TMgZmKMAMiAA9lukaZt6CjHfz4Yw2_LVZZF3GyV__CZ8wtOR1z3nF8ho4LBfDvktbjV4LYDtt0WziAqKp9fSjoRNN5k--NgiBV6NzYbEOVB2vCBo2aTzeBpb6sS_107aJKfQUPmuu9f-Klseq-J8IUcF77JrRxshflJvXTd99Ile4oBeqsSHBeR3btQYfojP28TtEf_3hjGL9eC-lVeaSvYSfmqpGT-HWuoMfZlJRpRkMu8-BLcZZ5Ij9mwCuiPZtclSUqsWCmbqERorewCRAewfgJSjecDoJ9BIajH84hDjaXw9NWOiquphADQSe6dTzzsJImNyolm9)
+![Діаграма роботи сервісу](http://www.plantuml.com/plantuml/png/ZLH5aXn133oR_b2nTpCpNynmD2wpcPcPcVa1mrC3tVw2waTEgKVD7U7bJKcf5DM6qsVwJvqvEpqrPoP_6dpq3vuvVihqqHUgauVl6ZMexcxqcVxJPcV_iVxHuLD9nnTmAr77lNEto59R73SUwv-wUFfCsh56NVUEFBZUTBVS3IeXn1TkX0nDZnzB1dnY8rbnlaqLkDztjyHv-_6UYFZFiwU71_jF3oFmZmHsWo3oaF6veIR-x98Fg4Fr03nupB1u0yow6v3rG2s6bL6LVBYu-sIDw7uGOCA5c9gIYwRzMuyiN9XMyXqwV2ffYwWPQE9M6SJxxfvx1yEJi2bFE7C9MKLh0rejLTGcGgaDWwUfYxKiIcjv4QaeZbhyNxtyItM0TI5hkzk6jqIXa6f9ckeLMUJrU8vmL2f4eGq0Qkwsky5ale0bzEOPagOLBatJ_g2wrYL1xq0huxebaahKvdQ3oTFnrM1uG6Mf35b3wcNPyRs3Snlap-AQFVpfKzdT5RD7rjt5lAI4TrJAxyRoDFStE5IvkeJmFUCdfiQF3OTXAp9D5EStmIhtyllk9bdMWRtXuRRJXoFYko7foZGfBar6p5hQiIOQO4tkcPIazHyy9eMsZ9npWvFgmDv9cosJGA7LZ8iMn0yLrslcdfexTrruCmgUdJltoZfzPc8X2fcv6hKo5zT4YYjZ_3tIVoAkHGNuuW9yIGe_guQbAOFMg8kLCeks-CCdVyRubkV3s8dWSyFmiI4ytly0)
 ## Короткий огляд продукту
 
 Цей продукт розробляэться для користування таких груп людей: 
