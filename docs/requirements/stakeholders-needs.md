@@ -46,8 +46,7 @@
 #### - Замовник не передав кошти.
 #### - Проблеми у розробці програмного коду.
 #### - Менеджер не вірно створив або змінив технічне завдання.
-#### - Керівник несвоєчасно передав завдання розробникам.
-#### - Розробники не вірно виконали завдання.
+#### - Аналітик не вірно проаналізував завдання.
 
 ***ОСНОВНИЙ СЦЕНАРІЙ:***
 ![Діаграма роботи сервісу](http://www.plantuml.com/plantuml/png/ZLH5aXn133oR_b2nTpCpNynmD2wpcPcPcVa1mrC3tVw2waTEgKVD7U7bJKcf5DM6qsVwJvqvEpqrPoP_6dpq3vuvVihqqHUgauVl6ZMexcxqcVxJPcV_iVxHuLD9nnTmAr77lNEto59R73SUwv-wUFfCsh56NVUEFBZUTBVS3IeXn1TkX0nDZnzB1dnY8rbnlaqLkDztjyHv-_6UYFZFiwU71_jF3oFmZmHsWo3oaF6veIR-x98Fg4Fr03nupB1u0yow6v3rG2s6bL6LVBYu-sIDw7uGOCA5c9gIYwRzMuyiN9XMyXqwV2ffYwWPQE9M6SJxxfvx1yEJi2bFE7C9MKLh0rejLTGcGgaDWwUfYxKiIcjv4QaeZbhyNxtyItM0TI5hkzk6jqIXa6f9ckeLMUJrU8vmL2f4eGq0Qkwsky5ale0bzEOPagOLBatJ_g2wrYL1xq0huxebaahKvdQ3oTFnrM1uG6Mf35b3wcNPyRs3Snlap-AQFVpfKzdT5RD7rjt5lAI4TrJAxyRoDFStE5IvkeJmFUCdfiQF3OTXAp9D5EStmIhtyllk9bdMWRtXuRRJXoFYko7foZGfBar6p5hQiIOQO4tkcPIazHyy9eMsZ9npWvFgmDv9cosJGA7LZ8iMn0yLrslcdfexTrruCmgUdJltoZfzPc8X2fcv6hKo5zT4YYjZ_3tIVoAkHGNuuW9yIGe_guQbAOFMg8kLCeks-CCdVyRubkV3s8dWSyFmiI4ytly0)
