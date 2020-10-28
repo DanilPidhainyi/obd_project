@@ -18,4 +18,4 @@
 ```
 #Діаграма взаємодії користувача з проектом
 
-![uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=http://www.plantuml.com/plantuml/png/TL0rTiGm4Ett4eOkd9HXx7C5ips6aPymTFYOPvzMQzI7mHSXOovLr-vyFqS9yjj_JLEcK1BHiXAGO1yBOHZFY6doRm88QODnbnCpb90Z79ufbNznSKfLjdmMFIIrc3MpHK_fBMvu0EDKWXwLlwUj1nUtDnfdTPxA0-AI1jfdiroa77e931sYul4H9O-p5j2H4BAvdHMlqr9Zhjek1pNWbgcB8p9aba1QU7r-6Wwg7zwStuJhrk_yJuCvTzc60za-Sfsth9-SkvSSCzMr_m00)
+![uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://github.com/DanilPidhainyi/obd_project/blob/master/src/uml/user_project.puml)
