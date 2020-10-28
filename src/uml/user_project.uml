@@ -1,0 +1,34 @@
+@startuml
+  entity Account
+  entity login
+  entity password
+  entity key
+  entity nickname
+  entity state
+  
+  login --* Account
+  password --* Account
+  key --* Account
+  nickname --* Account
+  state --* Account
+  
+  inactive --|> state
+  active --|> state
+  
+  entity project
+  entity project.name
+  entity project.description
+  entity project.duration
+  entity project.deadline
+  entity project.id
+  
+  project.name --* project
+  project.description --* project
+  project.duration --* project
+  project.deadline --* project
+  project.id --* project
+  
+  project"0,*" -- "1,1" Account: Owner
+  project"0,*" -- "0,*" Account:Developer
+  
+@enduml
