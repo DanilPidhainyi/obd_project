@@ -18,4 +18,5 @@
 ```
 #Діаграма взаємодії користувача з проектом
 
+![uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/boldak/database_basics_template/master/src/uml/example.puml)
 ![uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://github.com/DanilPidhainyi/obd_project/blob/master/src/uml/user_project.puml)
