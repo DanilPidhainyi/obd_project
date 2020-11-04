@@ -1,53 +1,73 @@
 @startuml
-  
-  entity Text
-  entity Corpus
-  entity Corpus.name
-  entity Corpus.description
-  
-  entity User
-  entity User.email
-  entity User.password
-  entity User.avatar
-  
-  entity Text.title
-  entity Text.content
-  
-  entity Access
-  entity Role
-  entity Role.name
-  entity Role.description
-  
-  object Owner #ffffff{
-    name:"Owner"
-    description:"la la la"
-  }
-  object Collaborator #ffffff
-  
-  
-  Text "0,*"--"(1,1)" Corpus
-  
 
-  Access "(0,*)"--"(1,1)" Corpus
-  Access "(0,*)"--"(1,1)" User
-  Access "(0,*)"-u-"(1,1)" Role
-  
-  
-  Corpus.name -u-* Corpus
-  Corpus.description -u-* Corpus
-  
-  User.email -u-* User
-  User.password -l-* User
-  User.avatar -d-* User
-  
-  Text.title --* Text
-  Text.content --* Text
-  
-  Role.name --* Role
-  Role.description --* Role
-  
-  Owner ..> Role : instanceOf
-  Collaborator ..> Role : instanceOf
-  
-  
+entity Text
+entity Corpus
+entity Corpus.name
+entity Corpus.description
+
+
+entity User
+entity User.email
+entity User.password
+entity User.avatar
+
+entity Text.title
+entity Text.content
+
+entity Access
+entity Role
+entity Role.name
+entity Role.description
+
+object Owner  #ffffff{
+    name:"owner",
+    description:"la la la"
+}
+object Collaborator  #ffffff
+
+Text "(0,*)"--"(1,1)" Corpus
+
+
+Access "(0,*)"--"(1,1)" Corpus
+Access "(0,*)"--"(1,1)" User
+Access "(0,*)"-u-"(1,1)" Role
+
+
+Corpus.name -u-* Corpus
+Corpus.description  -u-* Corpus
+
+User.email -u-* User
+User.password -l-* User
+User.avatar -d-* User
+
+
+Text.title --* Text
+Text.content --* Text
+
+Role.name --* Role
+Role.description  --* Role
+
+Owner ..> Role : instanceOf 
+Collaborator ..> Role : instanceOf 
+
+
+
+entity Node
+entity Node.Type
+entity Node.Value <<Nullable>>
+
+Node "childs(0,*)"-o "parent(0,1)"Node
+Node.Type -* Node
+Node.Value -d-* Node
+
+Text "(1,1)" - "(0,*)" Node : Source
+
+User "(1,1)"-l- "(0,*)" Node : Author
+
+entity Node.Branch
+Node.Branch -u-* Node
+
+
+
+
 @enduml
