@@ -19,3 +19,6 @@
 #### Діаграма взаємодії користувача з проектом
 
 ![uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/DanilPidhainyi/obd_project/master/src/uml/user_project.puml)
+
+#### Діаграма створення користувачем тексту
+![uml](http://www.plantuml.com/plantuml/proxy?cache=no&src=https://raw.githubusercontent.com/DanilPidhainyi/obd_project/master/src/uml/make_a_text.uml)
