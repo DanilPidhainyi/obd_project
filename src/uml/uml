@@ -1,0 +1,85 @@
+@startuml
+
+entity Account
+entity Account.email
+entity Account.password
+entity Account.key
+entity Account.nickname
+entity Account.state
+entity Account.avatar
+entity inactive
+entity active
+
+Account.email -* Account
+Account.password --* Account
+Account.nickname --* Account
+Account.state --* Account
+Account.key --* Account
+Account.avatar --* Account
+Account.avatar --* Account
+Account.state --* Account
+
+inactive --|> Account.state
+active --|> Account.state
+
+
+entity Project
+entity Project.name
+entity Project.description
+entity Project.duration
+entity Project.deadline
+entity Project.id
+
+Project.name --* Project
+Project.description --* Project
+Project.duration --* Project
+Project.deadline --* Project
+Project.id --* Project
+ 
+Project "0,*" -l- "1,1" Account : User
+Project "0,*" -- "0,*" Account : Collaborator
+ 
+entity Text
+entity Example
+entity Example.name
+entity Example.description
+
+entity Text.title
+entity Text.content
+
+entity Access
+entity Role
+entity Role.name
+entity Role.description
+
+object User  #ffffff{
+    name:"user",
+    description:"description of user"
+}
+object Collaborator  #ffffff
+
+Text "(0,*)"--"(1,1)" Example
+
+
+Access "(0,*)"--"(1,1)" Example
+Access "(0,*)"--"(1,1)" Account
+Access "(0,*)"-u-"(1,1)" Role
+
+
+Example.name -u-* Example
+Example.description  -u-* Example
+
+
+Text.title --* Text
+Text.content --* Text
+
+Role.name --* Role
+Role.description  --* Role
+
+User ..> Role : instanceOf 
+Collaborator ..> Role : instanceOf 
+
+
+ 
+
+@enduml
