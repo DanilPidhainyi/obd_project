@@ -6,7 +6,7 @@
 
 *Вбудовування зображень діаграм здійснюється з використанням сервісу plantuml.com. Сервіси взаємодіють так, як зобраажено на діаграмі нижче.*
 
-![uml](https://raw.githubusercontent.com/DanilPidhainyi/obd_project/master/src/uml/uml.uml)
+![uml](https://raw.githubusercontent.com/DanilPidhainyi/obd_project/master/src/uml/uml1.puml)
 
 *Для вбудовування необхідно використовувати:*
 ```
