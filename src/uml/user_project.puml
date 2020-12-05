@@ -1,34 +1,95 @@
 @startuml
-  entity Account
-  entity login
-  entity password
-  entity key
-  entity nickname
-  entity state
+
+entity Account
+entity Account.email
+entity Account.password
+entity Account.key
+entity Account.nickname
+entity Account.state
+entity Account.avatar
+entity inactive
+entity active
+
+Account.email -* Account
+Account.password --* Account
+Account.nickname --* Account
+Account.state --* Account
+Account.key --* Account
+Account.avatar --* Account
+Account.avatar --* Account
+Account.state --* Account
+
+inactive --|> Account.state
+active --|> Account.state
+
+
+entity Project
+entity Project.id
+
+
+
+entity Text
+entity Example
+entity Example.name
+entity Example.description
+
+entity Text.title
+entity Text.content
+
+entity Access
+entity Role
+entity Role.name
+entity Role.description
+
+object Customer  #ffffff
+object Collaborator  #ffffff
+object Owner  #ffffff
+
+
+
+entity Metadata
+entity Metadata.key
+entity Metadata.value
+
+Metadata.key --* Metadata
+Metadata.value --* Metadata
+
+Metadata "(0,*)"--"(1,1)" Project
+
+
+object Project.name   #ffffff
+object Project.description   #ffffff
+object Project.duration   #ffffff
+object Project.deadline   #ffffff
+
+Project.name ..> Metadata : instanceOf
+Project.description ..> Metadata : instanceOf
+Project.duration ..> Metadata : instanceOf
+Project.deadline ..> Metadata : instanceOf
+
   
-  login --* Account
-  password --* Account
-  key --* Account
-  nickname --* Account
-  state --* Account
-  
-  inactive --|> state
-  active --|> state
-  
-  entity project
-  entity project.name
-  entity project.description
-  entity project.duration
-  entity project.deadline
-  entity project.id
-  
-  project.name --* project
-  project.description --* project
-  project.duration --* project
-  project.deadline --* project
-  project.id --* project
-  
-  project"0,*" -- "1,1" Account: Owner
-  project"0,*" -- "0,*" Account:Developer
-  
-@enduml
+
+
+
+Text "(0,*)"--"(1,1)" Example
+
+
+Access "(0,*)"--"(1,1)" Example
+Access "(0,*)"--"(1,1)" Account
+Access "(0,*)"-u-"(1,1)" Role
+Access "(0,*)"-u-"(1,1)" Project
+
+
+Example.name -u-* Example
+Example.description  -u-* Example
+
+
+Text.title --* Text
+Text.content --* Text
+
+Role.name --* Role
+Role.description  --* Role
+
+Collaborator ..> Role : instanceOf 
+Owner ..> Role : instanceOf 
+Customer ..> Role : instanceOf
