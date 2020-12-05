@@ -93,4 +93,7 @@ Role.description  --* Role
 Collaborator ..> Role : instanceOf 
 Owner ..> Role : instanceOf 
 Customer ..> Role : instanceOf
+
+ 
+
 @enduml
