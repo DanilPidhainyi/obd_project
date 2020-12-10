@@ -1,0 +1,54 @@
+@startuml
+   
+  entity common_task {
+    name: VARCHAR,
+    description: VARCHAR,
+    deadline: DATETIME,
+    status: VARCHAR,
+    project_id:INT,
+    created-AT: DATETIME,
+    updated_at: DATETIME
+  }
+  entity User {
+    id: INT,
+    name: VARCHAR,
+    email: VARCHAR,
+    role: VARCHAR,
+    password: VARCHAR,
+    users_id: VARCHAR
+  }
+  entity Projects {
+    name: VARCHAR,
+    description: VARCHAR,
+    created_at: VARCHAR,
+    updated_at: VARCHAR,
+    project_user_id: DATETIME
+  }
+
+  entity users_requirement {
+    id: INT,
+    order_id: INT,
+    user_id: INT,
+    common_task_id: INT,
+    common_task_status: VARCHAR
+  }
+  
+  entity users {
+    id: INT,
+    name: VARCHAR,
+    email: VARCHAR,
+    password:VARCHAR,
+    role: VARCHAR,
+    avatar: VARCHAR,
+    nickname: VARCHAR,
+    created_at: DATETIME,
+    users_order_id: INT
+  } 
+
+  User "1, *" --  "*, 1" users
+  User "*, *" -- "1, *" Projects
+  users "1, 1" -- "*, *" users_requirement
+  users_requirement "*, 1" -- "1, 1" common_task
+  Projects "1, 1" -- "1, 1" common_task
+  
+@enduml
