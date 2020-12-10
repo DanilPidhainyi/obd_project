@@ -4,9 +4,10 @@
 
 ### EER model 1
 
-![alt tag](https://github.com/DanilPidhainyi/obd_project/blob/master/docs/design/EER%20Diagram.png?raw=true "Описание будет тут")
+![alt tag](https://github.com/DanilPidhainyi/obd_project/blob/master/docs/design/image.png?raw=true "Описание")
 
 ### EER model 2
 
-![alt tag](https://github.com/DanilPidhainyi/obd_project/blob/master/docs/design/image.png?raw=true "Описание")
+![alt tag](https://github.com/DanilPidhainyi/obd_project/blob/master/docs/design/EER%20Diagram.png?raw=true "Описание будет тут")
+
 
