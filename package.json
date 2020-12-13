@@ -1,0 +1,26 @@
+{
+  "name": "Mediascan",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "doc": "dos",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node ./test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanilPidhainyi/obd_project"
+  },
+  "author": "Bogdan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanilPidhainyi/obd_project/issues"
+  },
+  "homepage": "https://github.com/DanilPidhainyi/obd_project#readme",
+  "dependencies": {
+    "mysql2": "^2.2.5",
+    "sequelize": "^6.3.5"
+  }
+}
