@@ -1,5 +1,5 @@
 module.exports = {
-    DATABASE_NAME: 'regent_system',
+    DATABASE_NAME: 'mydb',
     DATABASE_USERNAME: 'root',
     DATABASE_PASSWORD: '00133700',
     DATABASE_HOST: 'localhost',
